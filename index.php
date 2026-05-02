@@ -1,5 +1,5 @@
 <?php
-echo "Putanginamo evina";
+echo "Evina Cute hahahhaa";
 ?>
 <-w /home/netadmin/cicd/prod_data.db -p war -k test -->
 <-w /home/netadmin/cicd/prod_data.db -p war -k test2 -->
